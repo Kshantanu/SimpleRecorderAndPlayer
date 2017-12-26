@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win_RecorderAndPlayer", "Win_RecorderAndPlayer\Win_RecorderAndPlayer.vcxproj", "{51AF952F-28B3-4BE5-B4BA-2809CD8B9AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51AF952F-28B3-4BE5-B4BA-2809CD8B9AB1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{51AF952F-28B3-4BE5-B4BA-2809CD8B9AB1}.Debug|Win32.Build.0 = Debug|Win32
+		{51AF952F-28B3-4BE5-B4BA-2809CD8B9AB1}.Release|Win32.ActiveCfg = Release|Win32
+		{51AF952F-28B3-4BE5-B4BA-2809CD8B9AB1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
